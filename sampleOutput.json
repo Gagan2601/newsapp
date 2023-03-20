@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "US Marshals Service says hackers accessed sensitive law enforcement data",
+            "description": "The DOJ division confirmed the incident was caused by a ransomware attack that exposed sensitive law enforcement data.",
+            "url": "https://techcrunch.com/2023/02/28/us-marshals-service-says-hackers-accessed-sensitive-law-enforcement-data/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1131974626.jpg?resize=1200,800",
+            "publishedAt": "2023-02-28T14:33:54Z",
+            "content": "The United States Marshals Service (USMS) says it was hit by a ransomware attack that exposed sensitive law enforcement data, including personal information belonging to the targets of investigations… [+2257 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Google says Chrome won't drain your MacBook battery as much",
+            "description": "Google said that it is rolling out under-the-hood updates to the latest version of Chrome that makes it eat up the battery less on Macbooks.",
+            "url": "https://techcrunch.com/2023/02/28/google-says-chrome-wont-drain-your-macbook-battery-as-much/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/firmbee-com-eMemmpUojlw-unsplash.jpg?resize=1200,800",
+            "publishedAt": "2023-02-28T12:47:21Z",
+            "content": "Google said that it is rolling out under-the-hood improvements to the latest version of Chrome that makes it less of a battery hog on MacBooks. The company said that version 110, which is rolling out… [+1434 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Canva launches a new paid subscription for universities and colleges",
+            "description": "Canva for Campus launched today, a new paid subscription for colleges to give students, professors and staff access to graphic design tools.",
+            "url": "https://techcrunch.com/2023/02/28/canva-for-campus-college/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/People-collaborating.jpg?resize=1200,800",
+            "publishedAt": "2023-02-28T04:04:55Z",
+            "content": "Canva, the online graphic design platform, launched Canva for Campus today, a new paid subscription for universities and colleges. The subscription gives students, professors, staff and campus admini… [+3836 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Gable raises the roof (and $12M) for better remote working options",
+            "description": "Remote working options and workplace flexibility can be a bit of a head-scratcher for employees and employers alike, but Gable, which has just raised $12 million in Series A funding following on a $3.25 million round of seed funding, is hoping to make it smoo…",
+            "url": "https://techcrunch.com/2023/02/28/gable-series-a/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/Gable-Founders-Large.jpeg?resize=1200,612",
+            "publishedAt": "2023-02-28T01:19:15Z",
+            "content": "Remote working options and workplace flexibility can be a bit of a head-scratcher for employees and employers alike, but Gable, which has just raised $12 million in Series A funding following on a $3… [+5064 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Bonusly, a startup aiming to help employees get recognized for quality work, raises $18.8M",
+            "description": "Bonusly, an employee recognition and rewards startup, has raised $18.8 million in a new venture equity round.",
+            "url": "https://techcrunch.com/2023/02/28/bonusly-a-startup-aiming-to-help-employees-get-recognized-for-quality-work-raises-18-8m/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1323917219.jpg?resize=1200,800",
+            "publishedAt": "2023-02-28T00:54:47Z",
+            "content": "Employee recognition is a key retention tool in a competitive jobs market. According to a recent SurveyMonkey poll, 82% of staffers consider recognition an important part of their happiness at work, … [+5190 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "Microsoft brings the new Bing to Windows 11 and launches Phone Link for iOS",
+            "description": "After introducing Bing in its Edge browser and then bringing it to the Edge, Bing and Skype apps on mobile, today it's Windows 11's turn to welcome the new Bing to its taskbar.",
+            "url": "https://techcrunch.com/2023/02/28/microsoft-brings-the-new-bing-to-windows-11-and-launches-phone-link-for-ios/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/W11-PC-with-Bloom.png?resize=1200,675",
+            "publishedAt": "2023-02-28T00:26:43Z",
+            "content": "Microsoft is wasting no time bringing its new AI-powered Bing to all of its products. After introducing it in its Edge browser and then bringing it to the Edge, Bing and Skype apps on mobile, today i… [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "FTC warns tech: 'Keep your AI claims in check'",
+            "description": "The FTC has sent another shot across the bows of the over-eager industry with a sassy warning to \"keep your AI claims in check.\"",
+            "url": "https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?resize=1200,836",
+            "publishedAt": "2023-02-28T00:17:06Z",
+            "content": "The FTC, fresh off announcing a whole new division taking on “snake oil” in tech, has sent another shot across the bows of the over-eager industry with a sassy warning to “keep your AI claims in chec… [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Serena Ventures backs SoLo Funds as finance platform tops 1M registered users",
+            "description": "The over 1 million registered users makes SoLo Funds “the largest and first Black-owned personal finance platform” to reach that milestone, according to the company.",
+            "url": "https://techcrunch.com/2023/02/28/serena-ventures-solo-funds-1m-registered-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/solo12.3.21-51.jpg?resize=1200,581",
+            "publishedAt": "2023-02-28T00:09:15Z",
+            "content": "SoLo Funds has acquired over 1 million registered users and over 1.3 million downloads to make it the largest and first Black-owned personal finance platform to do so, Rodney Williams, co-founder and… [+3395 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Google is rolling out fall detection to all Pixel Watch users",
+            "description": "Google announced today that its highly anticipated fall detection feature is rolling out to all Pixel Watch users today.",
+            "url": "https://techcrunch.com/2023/02/28/google-is-rolling-out-fall-detection-to-all-pixel-watch-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/pixel-watch-fall-detec.png?resize=1200,820",
+            "publishedAt": "2023-02-27T22:37:22Z",
+            "content": "Google has announced that its highly anticipated fall detection feature is rolling out to all Pixel Watch users today. Fall detection uses motion sensors and on-device machine learning to identify if… [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "Key legal issues for influencers and brands (and how to deal with them)",
+            "description": "In today's blazing fast and always online social media-driven world, your reputation and image are everything.",
+            "url": "https://techcrunch.com/2023/02/28/key-legal-issues-for-influencers-and-brands-and-how-to-deal-with-them/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1264804120.jpg?resize=1200,801",
+            "publishedAt": "2023-02-27T15:39:08Z",
+            "content": "Social media influencers are among the most recognized and highly paid individuals in the world.\r\nTheir prominence has been fueled by the explosive growth of TikTok, Twitch, and OnlyFans; the continu… [+3264 chars]"
+        }
+    ]
+}
